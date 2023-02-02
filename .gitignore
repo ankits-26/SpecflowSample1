@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/SpecFlowProject1
+/SpecFlowProject1/bin/Debug/net5.0
+/SpecFlowProject1/obj
+/SpecFlowProject1/Result
+/SpecFlowProject1/SpecFlowProject1.csproj.user
